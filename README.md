@@ -17,8 +17,8 @@ Sovelluksen tavoitteena on tarjota käyttäjälle tietoa siitä, mitä merkittä
 ## Käyttö-ohje
 
 1. **Etusivu** (`index.html`) näyttää automaattisesti 5 satunnaista tapahtumaa tältä päivältä jokaisesta kategoriasta (syntymät, kuolemat, tapahtumat).
-2. **Search-sivulla** (`history.html`) voit hakea valitun päivän tapahtumat ja valita määrän ja tyypin.
-3. **Favourites-sivulla** (`favourites.html`) voit tarkastella tallentamiasi tapahtumia.
+2. **Search-sivulla** (`history.html`) voi hakea valitun päivän tapahtumat ja valita niiden määrän (kolmeenkymmeneen saakka) ja tyypin.
+3. **Favourites-sivulla** (`favourites.html`) voi tarkastella tallennettuja tapahtumia.
 4. Jos tallennetusta tapahtumasta löytyy lisätietoa, on sen yhteydessä Wikipediaan johdattava kuvake.
 
 ---
@@ -29,7 +29,7 @@ Sovelluksen tavoitteena on tarjota käyttäjälle tietoa siitä, mitä merkittä
 
 Sovellus on julkaistu osoitteessa:
 
-🔗 
+🔗 [History Daily](https://satupa.github.io/historydaily/)
 
 ---
 
@@ -37,8 +37,8 @@ Sovellus on julkaistu osoitteessa:
 
 ### Käytetyt teknologiat
 
-- Projektissa on hyödynnetty byabbe.se/on-this-day-avointa rajapintaa, joka ei vaadi API-avainta. 
-- Projektissa on hyödynnetty mm. HTML5, CSS3, JavaScript. Ikonit haettu Font Awesome:sta, headerin kuva Unsplashista. . 
+- Projektissa on hyödynnetty [Byabbe On-This-Day](https://byabbe.se/on-this-day)-avointa rajapintaa, joka ei vaadi API-avainta. 
+- Projektissa on hyödynnetty mm. HTML5, CSS3, JavaScript. Ikonit on haettu Font Awesome:sta ja headerin kuva Unsplashista.
 - Toteutuksessa on hyödynnetty Web-sovellusten perusteet kurssin luentoja ja materiaaleja, MDN Web Docs tutoriaaleja. 
 
 ### Jatkokehitys
